@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nooruleman 👋</h1>
+<h1 align="center">Hi there, I'm Nooruleman </h1>
 
 <p align="center">
   <b>Aspiring Software Engineer</b> | Public Speaker | Tech Enthusiast | Content Creator
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 Aspiring Software Engineer, currently building real-world projects to sharpen my skills
 - 🗣️ I enjoy public speaking and sharing what I learn through content creation
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -40,15 +40,15 @@
 
 ---
 
-### 📌 Featured Projects
+###  Projects
 
-- 🛰️ **[ORBIT – Mission Control Simulator](https://github.com/noorulemannisarahmed-png/orbit-mission-control)**
+-  **[ORBIT – Mission Control Simulator](https://github.com/noorulemannisarahmed-png/orbit-mission-control)**
   A spacecraft mission control simulator built with PySide6 & pyqtgraph — live telemetry, real-time alerts, systems diagnostics, and mission logging in a sleek dark-themed desktop UI.
 
-- 🛒 **[Ecommerce Fullstack Project](https://github.com/noorulemannisarahmed-png/Ecommerce-Fullstack-Project)**
+-  **[Ecommerce Fullstack Project](https://github.com/noorulemannisarahmed-png/Ecommerce-Fullstack-Project)**
   A full-stack e-commerce application.
 
-- 💼 **[Internship Project](https://github.com/noorulemannisarahmed-png/Internship-Project)**
+-  **[Internship Project](https://github.com/noorulemannisarahmed-png/Internship-Project)**
   A JavaScript project built during my internship.
 
 ---
@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hafiza-noor-ul-eman-49677937b/">LinkedIn</a> •
